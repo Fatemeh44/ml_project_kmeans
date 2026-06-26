@@ -1,0 +1,3 @@
+method,mean_inertia,std_inertia,min_inertia,max_inertia,mean_iterations,std_iterations
+K-Means++,3484.626,1290.08,2587.789,5325.708,6.033,4.038
+Random,4051.584,3204.605,2587.789,19610.71,7.967,4.499
